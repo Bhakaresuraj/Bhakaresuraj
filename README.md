@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhakaresuraj](https://github.com/Bhakaresuraj)
 
-- 💬 Ask me about **C C++ Java Python Linux**
+- 💬 Ask me about **C C++ Java Python Linux HTML Css JS React **
 
 - 📫 How to reach me **surajbhakare190@gmail.com**
 
